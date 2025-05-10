@@ -2,6 +2,8 @@
 
 ## 🌟 Overview
 
+![le_image](/model-image.png)
+
 The provided code implements a **time series forecasting pipeline** for predicting the future prices of Solana (SOL) cryptocurrency. It uses:
 
 - **Pandas & Numpy** for data manipulation.
